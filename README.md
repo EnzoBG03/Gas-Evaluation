@@ -58,7 +58,7 @@ Vous pouvez ajuster les seuils de détection à votre convenance en modifiant le
 
 ## Versions
 
-- v2.0.0 : Restructuration du code et reconstruction de la connectique
+- v2.0.0 : Refonte de la connectique et restructuration du code
 - v1.0.0 : Version initiale
 
 ## Contribution
